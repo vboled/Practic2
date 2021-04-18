@@ -52,5 +52,5 @@
 ## Задание №3.
 <p align="justify">
 "Напишите программу, реализующую изображенный класс:"  </p>
-![alt text](Screenshots/task3.png)
+![alt text](Screenshots/task1.png)
 
