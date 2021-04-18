@@ -48,3 +48,9 @@
 ![alt text](Screenshots/DiceRoller2.png)
 ![alt text](Screenshots/DiceRoller3.png)
 ![alt text](Screenshots/DiceRoller4.png)
+
+## Задание №3.
+<p align="justify">
+"Напишите программу, реализующую изображенный класс:"  </p>
+![alt text](Screenshots/task3.png)
+
